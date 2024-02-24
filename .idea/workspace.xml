@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b81a2a10-b91a-4611-9608-49c53e281890" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../MyLab/jdk-17/lib/src.zip!/java.base/java/lang/Comparable.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../MyLab/jdk-17/lib/src.zip!/java.base/java/util/stream/Stream.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2btj7ejklf0jnDTXJJ9TMHrr3BJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.FlowDemo.executor": "Run",
+    "Application.FluxDemo.executor": "Run",
+    "Application.GenericsTest.executor": "Run",
+    "Application.LambdaTest01.executor": "Run",
+    "Application.OptionalTest.executor": "Run",
+    "JUnit.FlowDemo.TestProcessor.executor": "Run",
+    "JUnit.FlowDemo.TestPublisherAndSubscriber.executor": "Run",
+    "JUnit.FluxDemo.Test01.executor": "Run",
+    "JUnit.FluxDemo.TestBaseSubscriber.executor": "Run",
+    "JUnit.FluxDemo.TestBuffer.executor": "Run",
+    "JUnit.FluxDemo.TestCreate.executor": "Run",
+    "JUnit.FluxDemo.TestFlux01.executor": "Run",
+    "JUnit.FluxDemo.TestFlux02.executor": "Run",
+    "JUnit.FluxDemo.TestFluxOnComplete.executor": "Run",
+    "JUnit.FluxDemo.TestGenerate.executor": "Run",
+    "JUnit.FluxDemo.TestHandle.executor": "Run",
+    "JUnit.FluxDemo.TestLimitRate.executor": "Run",
+    "JUnit.FluxDemo.TestMono.executor": "Run",
+    "JUnit.FluxDemo.TestOnErrorComplete.executor": "Run",
+    "JUnit.FluxDemo.TestSchedulers.executor": "Run",
+    "JUnit.FluxDemo.TestSchedulers2.executor": "Run",
+    "JUnit.GenericsTest.getGenericsSubBox.executor": "Run",
+    "JUnit.GenericsTest.getInterface.executor": "Run",
+    "JUnit.GenericsTest.testArrayList.executor": "Run",
+    "JUnit.GenericsTest.testGenericsMethod.executor": "Run",
+    "JUnit.GenericsTest.testSubBox.executor": "Run",
+    "JUnit.LambdaTest01.test01.executor": "Run",
+    "JUnit.LambdaTest01.test02.executor": "Run",
+    "JUnit.LambdaTest01.test03.executor": "Run",
+    "JUnit.LambdaTest01.test04.executor": "Run",
+    "JUnit.OptionalTest.testFilter.executor": "Run",
+    "JUnit.OptionalTest.testIsPresent.executor": "Run",
+    "JUnit.OptionalTest.testMap.executor": "Run",
+    "JUnit.OptionalTest.testOptionalObjectCreation.executor": "Run",
+    "JUnit.OptionalTest.testOrElseGet.executor": "Run",
+    "JUnit.OptionalTest.testOrElseThrow.executor": "Run",
+    "JUnit.ReactorAPITest.testBlock.executor": "Run",
+    "JUnit.ReactorAPITest.testCache.executor": "Run",
+    "JUnit.ReactorAPITest.testConcatMap.executor": "Run",
+    "JUnit.ReactorAPITest.testEmpty.executor": "Run",
+    "JUnit.ReactorAPITest.testError.executor": "Run",
+    "JUnit.ReactorAPITest.testFilter.executor": "Run",
+    "JUnit.ReactorAPITest.testFlatMap.executor": "Run",
+    "JUnit.ReactorAPITest.testMerge.executor": "Run",
+    "JUnit.ReactorAPITest.testParallelFlux.executor": "Run",
+    "JUnit.ReactorAPITest.testRetryAndTimeout.executor": "Run",
+    "JUnit.ReactorAPITest.testSinks.executor": "Run",
+    "JUnit.ReactorAPITest.testThreadLocal.executor": "Run",
+    "JUnit.ReactorAPITest.testTransform.executor": "Run",
+    "JUnit.ReactorAPITest.testZip.executor": "Run",
+    "JUnit.ReactorAPITest.testZipa.executor": "Run",
+    "JUnit.StreamTest.Test01.executor": "Debug",
+    "JUnit.StreamTest.TestAllMatch.executor": "Run",
+    "JUnit.StreamTest.TestAnd.executor": "Run",
+    "JUnit.StreamTest.TestAnyMatch.executor": "Run",
+    "JUnit.StreamTest.TestArrayStream.executor": "Run",
+    "JUnit.StreamTest.TestCollect.executor": "Run",
+    "JUnit.StreamTest.TestCollectMap.executor": "Run",
+    "JUnit.StreamTest.TestCollectSet.executor": "Run",
+    "JUnit.StreamTest.TestFindAny.executor": "Run",
+    "JUnit.StreamTest.TestFindFirst.executor": "Run",
+    "JUnit.StreamTest.TestFlatMap.executor": "Run",
+    "JUnit.StreamTest.TestFlatMap2.executor": "Run",
+    "JUnit.StreamTest.TestLimit.executor": "Run",
+    "JUnit.StreamTest.TestMapStream.executor": "Debug",
+    "JUnit.StreamTest.TestMaxMin.executor": "Run",
+    "JUnit.StreamTest.TestNoneMatch.executor": "Run",
+    "JUnit.StreamTest.TestParallelStream.executor": "Run",
+    "JUnit.StreamTest.TestReduce.executor": "Run",
+    "JUnit.StreamTest.TestReduce2.executor": "Run",
+    "JUnit.StreamTest.TestReduce3.executor": "Run",
+    "JUnit.StreamTest.TestReduce4.executor": "Run",
+    "JUnit.StreamTest.TestSkip.executor": "Debug",
+    "JUnit.StreamTest.TestSorted.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Tests/Java/java-skills",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "cn.yiiguxing.plugin.translate",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.FluxDemo.TestSchedulers2">
+    <configuration name="FluxDemo.TestSchedulers2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reactor-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jing.reactor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jing.reactor" />
+      <option name="MAIN_CLASS_NAME" value="com.jing.reactor.FluxDemo" />
+      <option name="METHOD_NAME" value="TestSchedulers2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReactorAPITest.testBlock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reactor-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jing.reactor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jing.reactor" />
+      <option name="MAIN_CLASS_NAME" value="com.jing.reactor.ReactorAPITest" />
+      <option name="METHOD_NAME" value="testBlock" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReactorAPITest.testCache" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reactor-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jing.reactor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jing.reactor" />
+      <option name="MAIN_CLASS_NAME" value="com.jing.reactor.ReactorAPITest" />
+      <option name="METHOD_NAME" value="testCache" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReactorAPITest.testParallelFlux" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reactor-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jing.reactor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jing.reactor" />
+      <option name="MAIN_CLASS_NAME" value="com.jing.reactor.ReactorAPITest" />
+      <option name="METHOD_NAME" value="testParallelFlux" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReactorAPITest.testThreadLocal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reactor-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jing.reactor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jing.reactor" />
+      <option name="MAIN_CLASS_NAME" value="com.jing.reactor.ReactorAPITest" />
+      <option name="METHOD_NAME" value="testThreadLocal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FluxDemo.TestSchedulers2" />
+        <item itemvalue="JUnit.ReactorAPITest.testThreadLocal" />
+        <item itemvalue="JUnit.ReactorAPITest.testParallelFlux" />
+        <item itemvalue="JUnit.ReactorAPITest.testBlock" />
+        <item itemvalue="JUnit.ReactorAPITest.testCache" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-3183f394aec4-cf227e86" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b81a2a10-b91a-4611-9608-49c53e281890" name="Changes" comment="" />
+      <created>1707041103064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707041103064</updated>
+      <workItem from="1707041104055" duration="10667000" />
+      <workItem from="1707117250710" duration="1039000" />
+      <workItem from="1707118574474" duration="8578000" />
+      <workItem from="1707193493878" duration="1557000" />
+      <workItem from="1707195059467" duration="3191000" />
+      <workItem from="1707280869642" duration="11738000" />
+      <workItem from="1707880271541" duration="10080000" />
+      <workItem from="1707920233939" duration="8000" />
+      <workItem from="1708245153832" duration="9931000" />
+      <workItem from="1708331842258" duration="8175000" />
+      <workItem from="1708344554269" duration="51000" />
+      <workItem from="1708344638693" duration="1265000" />
+      <workItem from="1708502435786" duration="8618000" />
+      <workItem from="1708578934803" duration="10136000" />
+      <workItem from="1708675644426" duration="13365000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
